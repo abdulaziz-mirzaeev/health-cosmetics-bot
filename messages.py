@@ -20,7 +20,8 @@ messages = {
         'cancel_universal': '⬅️',
         'enter_full_name': 'Введите свое имя и фамилию\n',
         'cool!Now': 'Замечательно! А теперь',
-        'enter_phone_number': 'Введите ваш номер телефона\n',
+        'enter_phone_number': 'Введите ваш номер телефона\n'
+                              'Например, +998*********',
         'select_category': 'Выберите категорию:',
         'select_product': 'Выберите продукт:',
         'select_from_options': 'Выберите из существующих опций',
@@ -32,7 +33,8 @@ messages = {
         'cancel': '⬅️Орқага',
         'enter_full_name': 'Исм ва фамилиянгизни киритинг\n',
         'cool!Now': 'Ажойиб! Энди эса',
-        'enter_phone_number': 'Телефон рақамингизни киритинг\n',
+        'enter_phone_number': 'Телефон рақамингизни киритинг\n'
+                              'Масалан, +998*********',
         'select_category': 'Категорияни танланг:',
         'select_product': 'Махсулотни танланг:',
         'select_from_options': 'Берилган опциялардан танланг',
