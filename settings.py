@@ -8,6 +8,14 @@ SECRET_KEY = "6few3nci_q_o@l1dlbk81%wcxe!*6r29yu629&d97!hiqat9fa"
 
 DEFAULT_AUTO_FIELD='django.db.models.AutoField'
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'images')
+STATIC_URL = '/images/'
+
+# Extra places for collectstatic to find static files.
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'images'),
+)
+
 """
 DATABASES = {
     'default': {
